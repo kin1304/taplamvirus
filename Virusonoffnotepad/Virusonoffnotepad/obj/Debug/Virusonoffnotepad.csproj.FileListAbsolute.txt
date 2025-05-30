@@ -1,0 +1,10 @@
+D:\plan_study\relax\taplamvirus\Virusonoffnotepad\Virusonoffnotepad\bin\Debug\Virusonoffnotepad.exe.config
+D:\plan_study\relax\taplamvirus\Virusonoffnotepad\Virusonoffnotepad\bin\Debug\Virusonoffnotepad.exe
+D:\plan_study\relax\taplamvirus\Virusonoffnotepad\Virusonoffnotepad\bin\Debug\Virusonoffnotepad.pdb
+D:\plan_study\relax\taplamvirus\Virusonoffnotepad\Virusonoffnotepad\obj\Debug\Virusonoffnotepad.csproj.AssemblyReference.cache
+D:\plan_study\relax\taplamvirus\Virusonoffnotepad\Virusonoffnotepad\obj\Debug\Virusonoffnotepad.Form1.resources
+D:\plan_study\relax\taplamvirus\Virusonoffnotepad\Virusonoffnotepad\obj\Debug\Virusonoffnotepad.Properties.Resources.resources
+D:\plan_study\relax\taplamvirus\Virusonoffnotepad\Virusonoffnotepad\obj\Debug\Virusonoffnotepad.csproj.GenerateResource.cache
+D:\plan_study\relax\taplamvirus\Virusonoffnotepad\Virusonoffnotepad\obj\Debug\Virusonoffnotepad.csproj.CoreCompileInputs.cache
+D:\plan_study\relax\taplamvirus\Virusonoffnotepad\Virusonoffnotepad\obj\Debug\Virusonoffnotepad.exe
+D:\plan_study\relax\taplamvirus\Virusonoffnotepad\Virusonoffnotepad\obj\Debug\Virusonoffnotepad.pdb
